@@ -22,7 +22,6 @@
 
 <br>
 </br>
-</br>
  <img align="right" alt="GIF" src="github4.gif" width="475" height="320"/>
 
 - 🔭 I’m currently studying **computer science** in Europe
