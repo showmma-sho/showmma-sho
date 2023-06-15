@@ -1,7 +1,7 @@
 ## **Hey there**, *I'm Show!* <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="58px" alt="hi">
 
 
-[![instragram Badge](https://img.shields.io/badge/-@show-e84393?style=flat&labelColor=a12294&logo=instagram&logoColor=white)](https://www.instagram.com/shows_creation/?hl=en) [![Mail Badge](https://img.shields.io/badge/-showmma-ff2b5d?style=flat&labelColor=ff003c&logo=gmail&logoColor=white)](mailto:id2019showbikshowmma@gmail.com)  [![Discord Badge](https://img.shields.io/badge/-Discord-7f49e3?style=flat&labelColor=4d1fa3&logo=Discord&logoColor=white)](https://discord.gg/GSMdSu3pwX)
+[![instragram Badge](https://img.shields.io/badge/-@show-e84393?style=flat&labelColor=a12294&logo=instagram&logoColor=white)](https://www.instagram.com/shows_nxt/?hl=en) [![Mail Badge](https://img.shields.io/badge/-showmma-ff2b5d?style=flat&labelColor=ff003c&logo=gmail&logoColor=white)](mailto:id2019showbikshowmma@gmail.com)  [![Discord Badge](https://img.shields.io/badge/-Discord-7f49e3?style=flat&labelColor=4d1fa3&logo=Discord&logoColor=white)](https://discord.gg/GSMdSu3pwX)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=show) 
 
 
@@ -12,14 +12,6 @@
 
 ### I'm Showmma, as a lazy boy who is **creative** like you and trying to beat with codes by learning more and more! I spend most of my time by learning new things of programming, and  
 **I believe in myself with one thing that, if I work hard I can easily fulfill my dream**😇
-
-
-###   ** [Instragram](https://www.instagram.com/shows_creation/?hl=en) <img src="github3.gif" width="58px" alt="hi">**
-
-> 
-
-
-
 
 
 
