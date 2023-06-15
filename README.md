@@ -61,7 +61,7 @@
 <details>
 
 <summary>
-<b>My statse<b>🤫 
+<b>My stats<b>🤫 
 </summary>
 
 <br >
