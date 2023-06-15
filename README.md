@@ -3,13 +3,14 @@
 
 [![instragram Badge](https://img.shields.io/badge/-@show-e84393?style=flat&labelColor=a12294&logo=instagram&logoColor=white)](https://www.instagram.com/show_nxt/?hl=en) [![Mail Badge](https://img.shields.io/badge/-showmma-FF2E5F?style=flat&labelColor=ff003c&logo=gmail&logoColor=white)](mailto:id2019showbikshowmma@gmail.com)  [![Discord Badge](https://img.shields.io/badge/-Discord-7f49e3?style=flat&labelColor=4d1fa3&logo=Discord&logoColor=white)](https://discord.gg/GSMdSu3pwX)
 ![Visitors](https://img.shields.io/endpoint?color=A1F5C4&label=Visitors&labelColor=2a292d&logoColor=A1F5C4&style=flat-square&url=https%3A%2F%2Fhits.dwyl.com%2Fshowmma-sho%2Fshowmma-sho.json)
+[![linkedin Badge](https://img.shields.io/badge/-@show-2a292d?style=flat&labelColor=0B65C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/showbik-showmma-62552120b/)
 
 
 
 
+
+### I'm Showmma, as a lazy boy who is **creative** like you and trying to beat with codes by learning more and more! I spend most of my time by learning new things of programming, and
 <br>
-
-### I'm Showmma, as a lazy boy who is **creative** like you and trying to beat with codes by learning more and more! I spend most of my time by learning new things of programming, and  
 **I believe in myself with one thing that, if I work hard I can easily fulfill my dream**😇
 
 
@@ -60,7 +61,7 @@
 <details>
 
 <summary>
-<b>special things about me<b>🤫 
+<b>My statse<b>🤫 
 </summary>
 
 <br >
@@ -68,7 +69,7 @@
 
 
 
-#### **My daily coding stats like** Gtav😄
+#### **My daily coding stats like** 
 
 <!--START_SECTION:waka-->
 ```yml
